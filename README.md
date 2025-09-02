@@ -7,9 +7,6 @@ By default, the script uses [**Noto Sans**](https://fonts.google.com/noto/specim
 
 ![example](assets/Screenshot%202025-08-31%20at%2022.05.30.png)
 
-
-Here’s the polished **README.md** with the **tkinter dependency note** integrated smoothly:
-
 ---
 
 ## Features
